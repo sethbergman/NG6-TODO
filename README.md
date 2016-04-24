@@ -1,4 +1,4 @@
-NG6-starter TodoMVC Example
+NG6-TODO
 ============================
 
 This application is example of how you can write your angular applications using [NG6-starter](https://github.com/AngularClass/NG6-starter) as your starting point. Currently this example provides you:
@@ -7,17 +7,15 @@ This application is example of how you can write your angular applications using
  - UI components examples
  - Service example which includes unit tests
  - Unit tests for controllers of UI components
- 
+
 But there is still some things that should be done:
 
  - Improve test coverage
  - Provide example of E2E testing
- 
-If you have some other ideas of how improve this example, or you have questions, please welcome to our [issue tracker](https://github.com/AngularClass/NG6-todomvc-starter/issues).
 
 ## Learning AngularJS
 
-Official [AngularJS website](http://angularjs.org/) is good place to start, but it lacks of best practices and not provides you base concepts, which could simplify your life. There is some links that can help you better understand how to write maintainable applications using AngularJS. 
+Official [AngularJS website](http://angularjs.org/) is good place to start, but it lacks of best practices and not provides you base concepts, which could simplify your life. There is some links that can help you better understand how to write maintainable applications using AngularJS.
 
  - [Angular Styleguide](https://github.com/johnpapa/angular-styleguide) - This is basically angular best practices. There are some differences for ES2015 but the explanation of these practices remains the same.
  - [Optionated Angular Styleguide](https://github.com/toddmotto/angular-styleguide) - this is an extended version of angular styleguide, which covers additional information relevant to dev teams.
