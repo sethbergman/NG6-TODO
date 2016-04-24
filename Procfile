@@ -1,1 +1,1 @@
-gulp: gulp webpack
+web: npm start
