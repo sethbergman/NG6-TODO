@@ -1,7 +1,7 @@
 {
   "name": "NG6-TODO",
   "version": "0.0.1",
-  "description": "Starter for Angular + ES6 + (Webpack or JSPM)",
+  "description": "TODO list app built with Angular2 + ES6 + Webpack",
   "main": "app.js",
   "dependencies": {
     "angular": "^1.5.0",
