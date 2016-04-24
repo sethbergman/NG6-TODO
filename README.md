@@ -1,5 +1,5 @@
 # NG6-TODO
-#### TODO list app built with Angular2 + ES6 + Webpack
+#### TODO list app built with Angular + ES6 + Webpack
 ============================
 
 This application is example of how you can write your angular applications using [NG6-starter](https://github.com/AngularClass/NG6-starter) as your starting point. Currently this example provides you:
