@@ -1,6 +1,5 @@
 # NG6-TODO
 #### TODO list app built with Angular + ES6 + Webpack
-============================
 
 ### Clone Repository
 ```
@@ -14,7 +13,7 @@ npm install
 ```
 npm start
 ```
-Visit http://localhost:5000 to see the app!
+Visit [http://localhost:5000](http://localhost:5000) to see the app!
 
 ### Learning AngularJS
 
