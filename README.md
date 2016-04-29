@@ -2,19 +2,21 @@
 #### TODO list app built with Angular + ES6 + Webpack
 ============================
 
-This application is example of how you can write your angular applications using [NG6-starter](https://github.com/AngularClass/NG6-starter) as your starting point. Currently this example provides you:
+### Clone Repository
+```
+git clone https://github.com/sethbergman/NG6-TODO.git && cd NG6-TODO
+```
+### Install Dependencies
+```
+npm install
+```
+### Start the Server
+```
+npm start
+```
+Visit http://localhost:5000 to see the app!
 
- - Example of small-sized application
- - UI components examples
- - Service example which includes unit tests
- - Unit tests for controllers of UI components
-
-But there is still some things that should be done:
-
- - Improve test coverage
- - Provide example of E2E testing
-
-## Learning AngularJS
+### Learning AngularJS
 
 Official [AngularJS website](http://angularjs.org/) is good place to start, but it lacks of best practices and not provides you base concepts, which could simplify your life. There is some links that can help you better understand how to write maintainable applications using AngularJS.
 
@@ -34,6 +36,6 @@ Official [AngularJS website](http://angularjs.org/) is good place to start, but 
 
 *If you have any others helpful links to share, or find any of the links above no longer work, please [let us know](https://github.com/AngularClass/NG6-todomvc-starter/issues).*
 
-## Testing
+### Testing
 
 The app uses [Karma](http://karma-runner.github.io/0.12/index.html) to run the tests, which you can find near the test target (`*.spec.js` files).
