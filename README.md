@@ -31,7 +31,7 @@ Official [AngularJS website](http://angularjs.org/) is good place to start, but 
    - [Hacking the DOM](http://csharperimage.jeremylikness.com/2014/12/the-top-5-mistakes-angularjs-developers_13.html)
    - [Failing to Test](http://csharperimage.jeremylikness.com/2014/12/the-top-5-mistakes-angularjs-developers_28.html)
  - [AngularJS: The Bad Parts](http://larseidnes.com/2014/11/05/angularjs-the-bad-parts/) - To not fall into a trap, developers always should know the problems of tools they are using. With this knowledge in mind, you will write more maintainable applications.
- - [You don't always need AngularJS DI in directives](http://michalostruszka.pl/blog/2015/01/18/angular-directives-di/) - This article will help you to make more reusable UI components.
+ - [You don't always need AngularJS DI in directives](http://michalostruszka.pl/blog/2015/01/18/angular-directives-di/) - This articles will help you to make more reusable UI components.
  - [Exploring the Angular 1.5 `.component()` method](https://toddmotto.com/exploring-the-angular-1-5-component-method/)
  - [A Guide To Transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
 
