@@ -1,1 +1,1 @@
-FROM iteamdev:nodejs
+FROM iteamdev/node-webpack
