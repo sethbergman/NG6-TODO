@@ -1,1 +1,0 @@
-FROM iteamdev/node-webpack
