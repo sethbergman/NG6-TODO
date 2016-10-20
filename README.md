@@ -1,4 +1,5 @@
 # NG6-TODO
+
 #### TODO list app built with Angular + ES6 + Webpack
 ----------------------------------
 [ ![Codeship Status for sethbergman/NG6-TODO](https://codeship.com/projects/51c4fa00-15d3-0134-313e-06f03778d1be/status?branch=master)](https://codeship.com/projects/158186)
@@ -21,7 +22,7 @@ Visit [http://localhost:5000](http://localhost:5000) to see the app!
 
 Official [AngularJS website](http://angularjs.org/) is good place to start, but it lacks of best practices and not provides you base concepts, which could simplify your life. There is some links that can help you better understand how to write maintainable applications using AngularJS.
 
- - [Angular Styleguide](https://github.com/johnpapa/angular-styleguide) - This is basically angular best practices. There are some differences for ES2015 but the explanation of these practices remains the same.
+ - [Angular Styleguide](https://github.com/johnpapa/angular-styleguide) - This is basically angular best practices. There are some differences for ES2015 but the explanation of these practtices remains the same.
  - [Optionated Angular Styleguide](https://github.com/toddmotto/angular-styleguide) - this is an extended version of angular styleguide, which covers additional information relevant to dev teams.
  - [Code Organization in Large AngularJS and JavaScript Applications](http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript) - This article explains a directory structure, proposed in angular styleguide with more details and use cases.
  - The Top 5 Mistakes AngularJS Developers Make - This is a great series of posts describing in depth the common mistakes and how to not make them.
