@@ -112,7 +112,8 @@
   },
   "scripts": {
     "test": "karma start",
-    "start": "gulp serve"
+    "start": "gulp serve",
+    "postinstall": "gulp webpack"
   },
   "keywords": [
     "angular",
